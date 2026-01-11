@@ -8,10 +8,6 @@ Features
 
 Browse and view recipes with images and descriptions.
 
-Fully original layout and design.
-
-Responsive design for desktop and mobile devices.
-
 Purpose
 
 The main goal of this project was to practice web development and learn how to build a recipe website while using Academia della Cucina as inspiration for content.
