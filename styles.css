@@ -1,0 +1,35 @@
+body {
+    margin: 30px;
+}
+
+h1,
+.home {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 40px;
+}
+
+img {
+    height: auto;
+    width: 800px;
+    display: block;
+    margin: auto;
+}
+
+.description {
+    display: block;
+    width: 1200px;
+    margin: auto;
+}
+
+h1,
+.credit-picture,
+.description {
+    text-align: center;
+    margin-bottom: 48px;
+}
+
+.recipes-list {
+    width: 600px;
+    margin: auto;
+    font-size: 20px;
+}
